@@ -12,7 +12,7 @@ switch ($aksi) {
                     <th scope="col">NIP</th>
                     <th scope="col">Nama Dosen</th>
                     <th scope="col">Prodi</th>
-                    <th scope="col">Foto</th>
+                    <th scope="col">Foto Dosen</th>
                     <th scope="col">Aksi</th>
                 </tr>
             </thead>
