@@ -18,7 +18,7 @@ switch ($aksi) {
                     <th scope="col">Email</th>
                     <th scope="col">NIM</th>
                     <th scope="col">Prodo</th>
-                    <th scope="col">Gender</th>
+                    <th scope="col">Gendet</th>
                     <th scope="col">Hobi</th>
                     <th scope="col">Alamat</th>
                     <th scope="col">Aksi</th>
