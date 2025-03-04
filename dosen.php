@@ -118,8 +118,6 @@ switch ($aksi) {
             <input type="hidden" name="existing_foto" value="<?= $data['foto'] ?>">
 
 
-
-
             <button type="submit" class="btn btn-primary" name="submit">Update</button>
         </form>
 <?php
