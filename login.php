@@ -13,8 +13,12 @@
 <body>
     <div class="row">
         <div class="col-lg-4 mx-auto mt-4">
-            <h1>Login Form</h1>
+            <h1 class="text-center">Login Form</h1>
             <form method="POST" action="">
+                <div class="mb-3">
+                    <label for="usernanme" class="form-label">Username</label>
+                    <input type="text" name="username" class="form-control" required>
+                </div>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
                     <input type="email" name="email" class="form-control" id="exampleInputEmail1" required>
