@@ -3,7 +3,7 @@
 $host = "localhost";        // Nama host server database
 $user = "root";             // Username untuk database
 $password = "";             // Password untuk database
-$database = "web_trpl2d";   // Nama database yang akan diakses
+$database = "web_trpld2d";   // Nama database yang akan diakses
 
 // Membuat koneksi ke database
 $db = mysqli_connect($host, $user, $password, $database);
