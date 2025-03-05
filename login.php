@@ -13,6 +13,8 @@
 <body>
     <div class="row">
         <div class="col-lg-4 mx-auto mt-4">
+            <!-- Edit text center login form -->
+             <!-- Erland Agsya Agustian -->
             <h1 class="text-center">Login Form</h1>
             <form method="POST" action="">
                 <div class="mb-3">
